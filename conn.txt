@@ -1,0 +1,265 @@
+Supp Prod   Item# Desc.Code  Description                                        
+1CON DIMA   67417 LF382W     SLING LUDWIG                                       
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            67417 LF382W     70    2   2     0   1     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              67417 LF382W     10    0   0     0         0                      
+              67417 LF382W     11    0   0     0         0                      
+              67417 LF382W     12    0   0     0         0                      
+              67417 LF382W     15    0   0     0         0                      
+              67417 LF382W     20    2   4     0         5                      
+              67417 LF382W     30    0   0     0         0                      
+              67417 LF382W     31    0   0     0         0                      
+              67417 LF382W     35    0   0     0         0                      
+              67417 LF382W     40    1   3     0         3                      
+              67417 LF382W     45    0   0     0         0                      
+              67417 LF382W     50    1   2     0         2                      
+              67417 LF382W     55    0   0     0         0                      
+              67417 LF382W     60    3   5     0         5                      
+              67417 LF382W     70    2   2     0         1                      
+              67417 LF382W     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON E0DM   41396 M643       MALLET KEYBOARD MUSS                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            41396 M643       35    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              41396 M643       10    0   0     0         2                      
+              41396 M643       11    0   0     0         0                      
+              41396 M643       12    0   0     0         0                      
+              41396 M643       15    0   0     0         0                      
+              41396 M643       20    0   0     0         0                      
+              41396 M643       30    1   1     0         1                      
+              41396 M643       31    0   0     0         0                      
+              41396 M643       35    1   1     0         0                      
+              41396 M643       40    0   0     0         0                      
+              41396 M643       45    0   0     0         0                      
+              41396 M643       50    1   1     0         1                      
+              41396 M643       55    0   0     0         0                      
+              41396 M643       60    1   1     0         1                      
+              41396 M643       70    1   1     0         1                      
+              41396 M643       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EA     65733 MK2C       PITCH PIPE MASTER KE                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            65733 MK2C       50    2   2     0   1     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              65733 MK2C       10    0   0     0         0                      
+              65733 MK2C       11    0   0     0         0                      
+              65733 MK2C       12    0   0     0         0                      
+              65733 MK2C       15    0   0     0         0                      
+              65733 MK2C       20    6   8     0         6                      
+              65733 MK2C       30    1   2     0         2                      
+              65733 MK2C       31    0   0     0         0                      
+              65733 MK2C       35    2   2     0         3                      
+              65733 MK2C       40    2   2     0         2                      
+              65733 MK2C       45    2   2     0         2                      
+              65733 MK2C       50    2   2     0         1                      
+              65733 MK2C       55    0   0     0         0                      
+              65733 MK2C       60    6  12     4         8                      
+              65733 MK2C       70    2   3     4         0                      
+                                                                                
+                                                                                
+                                                                                
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EA     65733 MK2C       PITCH PIPE MASTER KE                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              65733 MK2C       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EAH    49911 M4806WH    STAND MUSIC MANHASSE                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            49911 M4806WH    20    0   0     1   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              49911 M4806WH    10    0   0     0         0                      
+              49911 M4806WH    11    0   0     0         0                      
+              49911 M4806WH    12    0   0     0         0                      
+              49911 M4806WH    15    0   0     0         0                      
+              49911 M4806WH    20    0   0     0         0                      
+              49911 M4806WH    30    0   0     0         0                      
+              49911 M4806WH    31    0   0     0         0                      
+              49911 M4806WH    35    0   0     0         0                      
+              49911 M4806WH    40    0   0     0         0                      
+              49911 M4806WH    45    1   2     0         1                      
+              49911 M4806WH    50    0   0     0         0                      
+              49911 M4806WH    55    0   0     0         0                      
+              49911 M4806WH    60    0   0     0         0                      
+              49911 M4806WH    70    0   0     0         0                      
+              49911 M4806WH    80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EAH    67887 AC49       STAND MUSIC MANHASSE                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            67887 AC49       60    1   1     2   0     0    1      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              67887 AC49       10    0   0     0         0                      
+              67887 AC49       11    0   0     0         0                      
+              67887 AC49       12    0   0     0         0                      
+              67887 AC49       15    0   0     0         0                      
+              67887 AC49       20    1   1     0         1                      
+              67887 AC49       30    0   0     0         2                      
+              67887 AC49       31    0   0     0         0                      
+              67887 AC49       35    0   0     0         0                      
+              67887 AC49       40    1   1     0         1                      
+              67887 AC49       45    0   0     0         0                      
+              67887 AC49       50    1   1     0         1                      
+              67887 AC49       55    0   0     0         0                      
+              67887 AC49       60    1   1     0         0                      
+              67887 AC49       70    1   1     1         1                      
+              67887 AC49       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EAI    44223 MA1910     STAND CART MANHASSET                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            44223 MA1910     60    0   0     5   0     3    0      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              44223 MA1910     10    0   0     0         0                      
+              44223 MA1910     11    0   0     0         0                      
+              44223 MA1910     12    0   0     0         0                      
+              44223 MA1910     15    0   0     0         0                      
+              44223 MA1910     20    0   0     2         0                      
+              44223 MA1910     30    0   0     0         0                      
+              44223 MA1910     31    0   0     0         0                      
+              44223 MA1910     35    0   0     0         0                      
+              44223 MA1910     40    0   0     0         0                      
+              44223 MA1910     45    0   0     0         0                      
+              44223 MA1910     50    1   1     1         0                      
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EAI    44223 MA1910     STAND CART MANHASSET                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              44223 MA1910     55    0   0     0         0                      
+              44223 MA1910     60    0   0     3         0                      
+              44223 MA1910     70    0   0     1         0                      
+              44223 MA1910     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EAI    63493 MA1100     STAND SHELF MANHASSE                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            63493 MA1100     45    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              63493 MA1100     10    0   0     0         0                      
+              63493 MA1100     11    0   0     0         0                      
+              63493 MA1100     12    0   0     0         0                      
+              63493 MA1100     15    0   0     0         0                      
+              63493 MA1100     20    2   3     0         3                      
+              63493 MA1100     30    0   0     0         3                      
+              63493 MA1100     31    0   0     0         0                      
+              63493 MA1100     35    0   0     0         0                      
+              63493 MA1100     40    1   1     0         1                      
+              63493 MA1100     45    1   1     0         0                      
+              63493 MA1100     50    1   1     0         1                      
+              63493 MA1100     55    0   0     0         0                      
+              63493 MA1100     60    0   0     0         0                      
+              63493 MA1100     70    2   2     0         2                      
+              63493 MA1100     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON EM5    67798 3511HC     MPC TRUMPET BACH                                   
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            67798 3511HC     70    1   2     1   0     0    1      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              67798 3511HC     10    0   0     0         0                      
+              67798 3511HC     11    0   0     0         0                      
+              67798 3511HC     12    0   0     0         0                      
+              67798 3511HC     15    0   0     0         0                      
+              67798 3511HC     20    0   0     0         0                      
+              67798 3511HC     30    0   0     0         0                      
+              67798 3511HC     31    0   0     0         0                      
+              67798 3511HC     35    0   0     0         4                      
+              67798 3511HC     40    1   1     0         1                      
+              67798 3511HC     45    0   0     0         0                      
+              67798 3511HC     50    1   1     0         1                      
+              67798 3511HC     55    0   0     0         0                      
+              67798 3511HC     60    1   1     0         1                      
+              67798 3511HC     70    1   2     0         0                      
+              67798 3511HC     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1CON ER3K  184050 F30030     REED SAX TENOR FIBRA                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           184050 F30030     60    0   0     1   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             184050 F30030     10    0   0     0         0                      
+             184050 F30030     11    0   0     0         0                      
+             184050 F30030     12    0   0     0         0                      
+             184050 F30030     15    0   0     0         0                      
+             184050 F30030     20    0   0     0         0                      
+             184050 F30030     30    0   0     0         0                      
+             184050 F30030     31    0   0     0         0                      
+             184050 F30030     35    0   0     0         0                      
+Supp Prod   Item# Desc.Code  Description                                        
+1CON ER3K  184050 F30030     REED SAX TENOR FIBRA                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             184050 F30030     40    0   0     0         0                      
+             184050 F30030     45    0   0     0         1                      
+             184050 F30030     50    0   0     0         0                      
+             184050 F30030     55    0   0     0         0                      
+             184050 F30030     60    0   0     0         0                      
+             184050 F30030     70    0   0     0         0                      
+             184050 F30030     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+dos et wirc?dos et wirc?bananasbananas
