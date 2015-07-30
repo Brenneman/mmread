@@ -23,9 +23,10 @@ f.close()'''
 #Main run sequence
 
 #Get file name and open file
-Print('File you wish to open?')
-f = input(">>>")
-getFile(f)
+Print('File you wish to update from?')
+fname = input(">>>")
+f = getFile(fname)
+
 
 #Read file and print list of suppliers found
 
