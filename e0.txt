@@ -1,0 +1,462 @@
+Supp Prod   Item# Desc.Code  Description                                        
+1INN E0DM   43188 TC60       MALLET VIBE SOFT COR                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            43188 TC60       40    3   4     0   2     0    0      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              43188 TC60       10   10  32    36         9                      
+              43188 TC60       11    0   0     0         0                      
+              43188 TC60       12    0   0     0         0                      
+              43188 TC60       15    0   0     0         0                      
+              43188 TC60       20    3   5     0         5                      
+              43188 TC60       30    2   2     0         5                      
+              43188 TC60       31    0   0     0         0                      
+              43188 TC60       35    2   2    60         4                      
+              43188 TC60       40    3   4     0         2                      
+              43188 TC60       45    2   2     0         2                      
+              43188 TC60       50    1   2     0         8                      
+              43188 TC60       55    0   0     0         0                      
+              43188 TC60       60    2   2     0         2                      
+              43188 TC60       70    2   2     0         7                      
+              43188 TC60       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+1INN E0DM   68317 TBD80      MALLET BD GENERAL                                  
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            68317 TBD80      40    2   2     1   2     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              68317 TBD80      10    6  28     0        35                      
+              68317 TBD80      11    0   0     0         0                      
+              68317 TBD80      12    0   0     0         0                      
+              68317 TBD80      15    0   0     0         0                      
+              68317 TBD80      20    1   1     0         1                      
+              68317 TBD80      30    1   1     0         1                      
+              68317 TBD80      31    0   0     0         0                      
+              68317 TBD80      35    1   1     0         1                      
+              68317 TBD80      40    2   2     0         2                      
+              68317 TBD80      45    1   1     0         2                      
+              68317 TBD80      50    1   2     0         5                      
+              68317 TBD80      55    0   0     0         0                      
+              68317 TBD80      60    2   2     0         2                      
+              68317 TBD80      70    1   1     0         1                      
+              68317 TBD80      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+B&J  E0D7   39646 CP380      TAMBOURINE 10" D/H                                 
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            39646 CP380      70    1   1     1   0     1    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              39646 CP380      10    2   3     3         0                      
+              39646 CP380      11    0   0     0         0                      
+              39646 CP380      12    0   0     0         0                      
+              39646 CP380      15    0   0     0         0                      
+              39646 CP380      20    1   1     0         1                      
+              39646 CP380      30    1   1     2         0                      
+              39646 CP380      31    0   0     0         0                      
+              39646 CP380      35    1   1     1         0                      
+              39646 CP380      40    1   1     0         1                      
+              39646 CP380      45    1   1     0         1                      
+              39646 CP380      50    1   1     1         0                      
+              39646 CP380      55    0   0     0         0                      
+              39646 CP380      60    1   1     4         0                      
+              39646 CP380      70    1   1     1         0                      
+                                                                                
+                                                                                
+                                                                                
+Supp Prod   Item# Desc.Code  Description                                        
+B&J  E0D7   39646 CP380      TAMBOURINE 10" D/H                                 
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              39646 CP380      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+COAS E0D7  175949 10AWAL1932 BODHRAN 12" CELTIC                                 
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           175949 10AWAL1932 45    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             175949 10AWAL1932 10    0   0     0         0                      
+             175949 10AWAL1932 11    0   0     0         0                      
+             175949 10AWAL1932 12    0   0     0         0                      
+             175949 10AWAL1932 15    0   0     0         0                      
+             175949 10AWAL1932 20    0   0     0         0                      
+             175949 10AWAL1932 30    0   0     0         0                      
+             175949 10AWAL1932 31    0   0     0         0                      
+             175949 10AWAL1932 35    0   0     0         0                      
+             175949 10AWAL1932 40    0   0     0         0                      
+             175949 10AWAL1932 45    1   1     0         0                      
+             175949 10AWAL1932 50    0   0     0         0                      
+             175949 10AWAL1932 55    0   0     0         0                      
+             175949 10AWAL1932 60    0   0     0         0                      
+             175949 10AWAL1932 70    0   0     0         0                      
+             175949 10AWAL1932 80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+COAS E0DM   28509 BCS1       MALLETS CYMBAL VF                                  
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            28509 BCS1       40    2   2     2   0     0    2      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              28509 BCS1       10    0   0     0         0                      
+              28509 BCS1       11    0   0     0         0                      
+              28509 BCS1       12    0   0     0         0                      
+              28509 BCS1       15    0   0     0         0                      
+              28509 BCS1       20    1   1     0         1                      
+              28509 BCS1       30    1   1     0         1                      
+              28509 BCS1       31    0   0     0         0                      
+              28509 BCS1       35    0   0     0         0                      
+              28509 BCS1       40    2   2     0         0                      
+              28509 BCS1       45    0   0     0         0                      
+              28509 BCS1       50    0   0     0         0                      
+              28509 BCS1       55    0   0     0         0                      
+              28509 BCS1       60    2   3     0         4                      
+              28509 BCS1       70    1   1     0         1                      
+              28509 BCS1       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+COAS E0DM   66864 VFT4       MALLETS TIMP VF                                    
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            66864 VFT4       40    2   2     0   1     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              66864 VFT4       10    0   0     0         0                      
+              66864 VFT4       11    0   0     0         0                      
+              66864 VFT4       12    0   0     0         0                      
+              66864 VFT4       15    0   0     0         0                      
+              66864 VFT4       20    1   1     0         1                      
+              66864 VFT4       30    1   1     0         2                      
+              66864 VFT4       31    0   0     0         0                      
+              66864 VFT4       35    0   0     0         0                      
+              66864 VFT4       40    2   2     0         1                      
+              66864 VFT4       45    0   0     0         0                      
+              66864 VFT4       50    2   2     0         2                      
+Supp Prod   Item# Desc.Code  Description                                        
+COAS E0DM   66864 VFT4       MALLETS TIMP VF                                    
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              66864 VFT4       55    0   0     0         0                      
+              66864 VFT4       60    2   5     0         2                      
+              66864 VFT4       70    1   2     1         1                      
+              66864 VFT4       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+COAS E0DM   66926 VFT2       MALLETS TIMP VF SOFT                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            66926 VFT2       40    1   1     1   0     0    1      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              66926 VFT2       10    0   0     0         0                      
+              66926 VFT2       11    0   0     0         0                      
+              66926 VFT2       12    0   0     0         0                      
+              66926 VFT2       15    0   0     0         0                      
+              66926 VFT2       20    2   2     0         2                      
+              66926 VFT2       30    1   1     0         1                      
+              66926 VFT2       31    0   0     0         0                      
+              66926 VFT2       35    1   1     0         1                      
+              66926 VFT2       40    1   1     0         0                      
+              66926 VFT2       45    0   0     0         0                      
+              66926 VFT2       50    1   1     0         1                      
+              66926 VFT2       55    0   0     0         0                      
+              66926 VFT2       60    1   2     0         2                      
+              66926 VFT2       70    1   1     1         0                      
+              66926 VFT2       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+COAS E0DM   67746 VFT1       MALLETS TIMP VF GEN                                
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            67746 VFT1       70    1   2     0   0     0    0      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              67746 VFT1       10    0   0     0         0                      
+              67746 VFT1       11    0   0     0         0                      
+              67746 VFT1       12    0   0     0         0                      
+              67746 VFT1       15    0   0     0         0                      
+              67746 VFT1       20    2   3     0         3                      
+              67746 VFT1       30    2   2     0         2                      
+              67746 VFT1       31    0   0     0         0                      
+              67746 VFT1       35    2   2     0         2                      
+              67746 VFT1       40    3   4     0         3                      
+              67746 VFT1       45    0   0     0         0                      
+              67746 VFT1       50    1   2     0         2                      
+              67746 VFT1       55    0   0     0         0                      
+              67746 VFT1       60    2   4     0         4                      
+              67746 VFT1       70    1   2     0         0                      
+              67746 VFT1       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+DMS  E0DA   39873 D527       TRIANGLE CLAMP DANMA                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            39873 D527       70    2   2     0   1     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              39873 D527       10    0   0     0         1                      
+              39873 D527       11    0   0     0         0                      
+              39873 D527       12    0   0     0         0                      
+              39873 D527       15    0   0     0         0                      
+              39873 D527       20    3   4     0         3                      
+              39873 D527       30    3   4     0         3                      
+              39873 D527       31    0   0     0         0                      
+              39873 D527       35    3   5     0         4                      
+Supp Prod   Item# Desc.Code  Description                                        
+DMS  E0DA   39873 D527       TRIANGLE CLAMP DANMA                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              39873 D527       40    4   6     0         5                      
+              39873 D527       45    1   2     0         4                      
+              39873 D527       50    2   3     0         2                      
+              39873 D527       55    0   0     0         0                      
+              39873 D527       60    2   4     0         6                      
+              39873 D527       70    2   2     0         1                      
+              39873 D527       80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+GHAW E0D8  179212 SVTBSET    TRIANGLE BEATER SET                                
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           179212 SVTBSET    30    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             179212 SVTBSET    10    0   0     0         0                      
+             179212 SVTBSET    11    0   0     0         0                      
+             179212 SVTBSET    12    0   0     0         0                      
+             179212 SVTBSET    15    0   0     0         0                      
+             179212 SVTBSET    20    0   0     0         0                      
+             179212 SVTBSET    30    1   1     0         0                      
+             179212 SVTBSET    31    0   0     0         0                      
+             179212 SVTBSET    35    0   0     0         0                      
+             179212 SVTBSET    40    0   0     0         0                      
+             179212 SVTBSET    45    0   0     0         0                      
+             179212 SVTBSET    50    0   0     0         0                      
+             179212 SVTBSET    55    0   0     0         0                      
+             179212 SVTBSET    60    0   0     0         1                      
+             179212 SVTBSET    70    0   0     0         0                      
+             179212 SVTBSET    80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+GHAW E0DM   43390 TT2GR      MALLET GONG BEATER                                 
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            43390 TT2GR      40    1   2     0   0     0    0      2            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              43390 TT2GR      10    1   1     0         1                      
+              43390 TT2GR      11    0   0     0         0                      
+              43390 TT2GR      12    0   0     0         0                      
+              43390 TT2GR      15    0   0     0         0                      
+              43390 TT2GR      20    2   3     0         3                      
+              43390 TT2GR      30    0   0     0         0                      
+              43390 TT2GR      31    0   0     0         0                      
+              43390 TT2GR      35    1   1     0         1                      
+              43390 TT2GR      40    1   2     0         0                      
+              43390 TT2GR      45    0   0     0         0                      
+              43390 TT2GR      50    0   0     0         0                      
+              43390 TT2GR      55    0   0     0         0                      
+              43390 TT2GR      60    0   0     0         0                      
+              43390 TT2GR      70    0   0     0         2                      
+              43390 TT2GR      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+SABI E0DA   38101 61001      CYMBAL PAD SABIAN                                  
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            38101 61001      60    2   2     0   1     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              38101 61001      10    0   0     0         0                      
+              38101 61001      11    0   0     0         0                      
+              38101 61001      12    0   0     0         0                      
+              38101 61001      15    0   0     0         0                      
+              38101 61001      20    0   0     0         4                      
+Supp Prod   Item# Desc.Code  Description                                        
+SABI E0DA   38101 61001      CYMBAL PAD SABIAN                                  
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              38101 61001      30    0   0     0         0                      
+              38101 61001      31    0   0     0         0                      
+              38101 61001      35    0   0     0         0                      
+              38101 61001      40    1   1     0         2                      
+              38101 61001      45    0   0     0         0                      
+              38101 61001      50    0   0     0         2                      
+              38101 61001      55    0   0     0         0                      
+              38101 61001      60    2   2     0         1                      
+              38101 61001      70    1   1     0         1                      
+              38101 61001      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM   42631 IP300      MALLETS MARIMBA INNO                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+            42631 IP300      40    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              42631 IP300      10    0   0     0         0                      
+              42631 IP300      11    0   0     0         0                      
+              42631 IP300      12    0   0     0         0                      
+              42631 IP300      15    0   0     0         0                      
+              42631 IP300      20    1   1     0         1                      
+              42631 IP300      30    0   0     0         0                      
+              42631 IP300      31    0   0     0         0                      
+              42631 IP300      35    0   0     0         0                      
+              42631 IP300      40    1   1     0         0                      
+              42631 IP300      45    0   0     0         0                      
+              42631 IP300      50    1   1     0         1                      
+              42631 IP300      55    0   0     0         0                      
+              42631 IP300      60    0   0     0         0                      
+              42631 IP300      70    0   0     0         0                      
+              42631 IP300      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  106254 IP908      MALLETS BELL                                       
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           106254 IP908      40    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             106254 IP908      10    0   0     0         0                      
+             106254 IP908      11    0   0     0         0                      
+             106254 IP908      12    0   0     0         0                      
+             106254 IP908      15    0   0     0         0                      
+             106254 IP908      20    1   1     0         2                      
+             106254 IP908      30    0   0     0         0                      
+             106254 IP908      31    0   0     0         0                      
+             106254 IP908      35    0   0     0         0                      
+             106254 IP908      40    1   1     0         0                      
+             106254 IP908      45    0   0     0         0                      
+             106254 IP908      50    1   1     0         1                      
+             106254 IP908      55    0   0     0         0                      
+             106254 IP908      60    0   0     0         0                      
+             106254 IP908      70    0   0     0         0                      
+             106254 IP908      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  120566 IP905      MALLETS XYLOPHONE                                  
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           120566 IP905      40    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             120566 IP905      10    0   0     0         0                      
+             120566 IP905      11    0   0     0         0                      
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  120566 IP905      MALLETS XYLOPHONE                                  
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             120566 IP905      12    0   0     0         0                      
+             120566 IP905      15    0   0     0         0                      
+             120566 IP905      20    1   1     0         1                      
+             120566 IP905      30    0   0     0         0                      
+             120566 IP905      31    0   0     0         0                      
+             120566 IP905      35    0   0     0         0                      
+             120566 IP905      40    1   1     0         0                      
+             120566 IP905      45    0   0     0         0                      
+             120566 IP905      50    1   1     0         1                      
+             120566 IP905      55    0   0     0         0                      
+             120566 IP905      60    0   0     0         0                      
+             120566 IP905      70    0   0     0         0                      
+             120566 IP905      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  120662 F1         MALLETS MARIMBA INNO                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           120662 F1         40    2   2     0   1     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             120662 F1         10    0   0     0         0                      
+             120662 F1         11    0   0     0         0                      
+             120662 F1         12    0   0     0         0                      
+             120662 F1         15    0   0     0         0                      
+             120662 F1         20    1   1     0         1                      
+             120662 F1         30    0   0     0         0                      
+             120662 F1         31    0   0     0         0                      
+             120662 F1         35    0   0     0         0                      
+             120662 F1         40    2   2     0         1                      
+             120662 F1         45    0   0     0         0                      
+             120662 F1         50    0   0     0         0                      
+             120662 F1         55    0   0     0         0                      
+             120662 F1         60    0   0     0         0                      
+             120662 F1         70    0   0     0         0                      
+             120662 F1         80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  121133 IP902      MALLETS XYLOPHONE                                  
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           121133 IP902      40    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             121133 IP902      10    0   0     0         0                      
+             121133 IP902      11    0   0     0         0                      
+             121133 IP902      12    0   0     0         0                      
+             121133 IP902      15    0   0     0         0                      
+             121133 IP902      20    1   1     0         1                      
+             121133 IP902      30    0   0     0         0                      
+             121133 IP902      31    0   0     0         0                      
+             121133 IP902      35    0   0     0         0                      
+             121133 IP902      40    1   1     0         0                      
+             121133 IP902      45    0   0     0         0                      
+             121133 IP902      50    1   1     0         1                      
+             121133 IP902      55    0   0     0         0                      
+             121133 IP902      60    0   0     0         0                      
+             121133 IP902      70    0   0     0         0                      
+             121133 IP902      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  138087 RS301      MALLETS VIBE/MARIMBA                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           138087 RS301      40    1   1     0   0     0    0      1            
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  138087 RS301      MALLETS VIBE/MARIMBA                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             138087 RS301      10    0   0     0         0                      
+             138087 RS301      11    0   0     0         0                      
+             138087 RS301      12    0   0     0         0                      
+             138087 RS301      15    0   0     0         0                      
+             138087 RS301      20    1   1     0         2                      
+             138087 RS301      30    0   0     0         0                      
+             138087 RS301      31    0   0     0         0                      
+             138087 RS301      35    0   0     0         0                      
+             138087 RS301      40    1   1     0         0                      
+             138087 RS301      45    0   0     0         0                      
+             138087 RS301      50    1   1     0         1                      
+             138087 RS301      55    0   0     0         0                      
+             138087 RS301      60    0   0     0         0                      
+             138087 RS301      70    0   0     0         0                      
+             138087 RS301      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  138088 IP906      MALLETS XYLOPHONE                                  
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           138088 IP906      40    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             138088 IP906      10    0   0     0         0                      
+             138088 IP906      11    0   0     0         0                      
+             138088 IP906      12    0   0     0         0                      
+             138088 IP906      15    0   0     0         0                      
+             138088 IP906      20    1   1     0         2                      
+             138088 IP906      30    0   0     0         0                      
+             138088 IP906      31    0   0     0         0                      
+             138088 IP906      35    0   0     0         0                      
+             138088 IP906      40    1   1     0         0                      
+             138088 IP906      45    0   0     0         0                      
+             138088 IP906      50    1   1     0         1                      
+             138088 IP906      55    0   0     0         0                      
+             138088 IP906      60    0   0     0         0                      
+             138088 IP906      70    0   0     0         0                      
+             138088 IP906      80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA E0DM  138090 OS4        MALLETS XYLO/GLOCKEN                               
+            Item# DescCode   Bra MIN MAX ON_OE Avl On_PO Rsrv BuyQTY            
+           138090 OS4        40    1   1     0   0     0    0      1            
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             138090 OS4        10    0   0     0         0                      
+             138090 OS4        11    0   0     0         0                      
+             138090 OS4        12    0   0     0         0                      
+             138090 OS4        15    0   0     0         0                      
+             138090 OS4        20    1   1     0         2                      
+             138090 OS4        30    0   0     0         0                      
+             138090 OS4        31    0   0     0         0                      
+             138090 OS4        35    0   0     0         0                      
+             138090 OS4        40    1   1     0         0                      
+             138090 OS4        45    0   0     0         0                      
+             138090 OS4        50    0   0     0         0                      
+             138090 OS4        55    0   0     0         0                      
+             138090 OS4        60    0   0     0         0                      
+             138090 OS4        70    0   0     0         0                      
+             138090 OS4        80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+                                                                                
+                                                                                
