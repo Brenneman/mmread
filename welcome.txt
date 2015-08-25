@@ -1,0 +1,4 @@
+>>>
+Welcome to the St. John's Music MINMAX logic controller!
+Please enter a command. If you need help type 'help'.
+>>>

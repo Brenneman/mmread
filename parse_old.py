@@ -95,11 +95,20 @@ ibr, ibQty = getBrBqty(iitemNum, ifile)
 iitemDict = buildItemDict(iitemNum, isupp, iprod, idescCode, idesc, ibr, ibQty)
 
 
-#CSV writing testing area.... currently bunk
-import csv
+#CSV writing testing area.... 
+'''import csv
 with open('output.csv', 'w') as f:
     fieldnames = ["item#"]	
     w = csv.writer(f)
     for key in iitemDict:
         w.writerow([key])
-        w.writerow(iitemDict[key])
+        w.writerow(iitemDict[key])'''
+
+import sqlite3
+conn = sqlite3.connect('purchasing.db')
+
+c = conn.cursor()
+
+c.execute('''CREATE TABLE IF NOT EXISTS items (number text, supplier text, pcode text, dcode text, desc text, br text, bqty text)''')
+
+c.executemany('INSERT INTO items VALUES (?,?,?,?,?,?,?)', (iitemDict.keys(), iitemDict))
