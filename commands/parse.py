@@ -37,7 +37,6 @@ def getItems(file):
                 br = int(line[29:31])
                 bqty = int(line[64:])
                 squpdate(itemNum, supp, pcode, dcode, desc, br, bqty)
-                print(itemNum, supp, pcode, dcode, desc, br, bqty)
             elif line[:4] == 'Supp':
                 suppLine = True
                 records += 1
