@@ -13,19 +13,18 @@ def Welcome():
         for line in f:
             print(line)
 
-'''#Main run sequence
+#Main run sequence
 Welcome()
 #Choose from below
 choice = ""
 while choice != 'quit' or 'q':
     choice = input(">>>").lower()
-    print(choice)
-    if choice == 'h' or 'help':
-        print("halp()")
-    elif choice == 'u' or 'update':
+    if choice == 'h' or choice == 'help':
+        hlp()
+    elif choice == 'u' or choice == 'update':
         parse.getItems(input("File Name?\n>>>"))
     else:
-        pass'''
+        pass
         
 
 #Update database from a file?
