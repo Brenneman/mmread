@@ -1,4 +1,5 @@
 import sqlite3
+import sys
 
 def squpdate(itemNum, supp, pcode, dcode, desc, br, bqty, br10po, br10qty):
     conn = sqlite3.connect('purchasing.db')
@@ -35,15 +36,20 @@ def getItems(file):
                 pcode = line[5:9]
                 dcode = line.lstrip('')[18:29]
                 desc = line.rstrip('\n')[29:]
+                f.readline()
+                f.readline()
+                f.readline()
+                line10 = f.readline()
+                print(line10)
+                if line10[:19].lstrip() == str(itemNum):
+                    line10 = line10.lstrip('\n')
+                    br10po = line10[46:52].rstrip(' ').lstrip(' ')
+                    br10qty = line10[55:].rstrip(' ').lstrip(' ')
+                    print(line10, '\n', br10po, '\n', br10qty)
                 suppLine = False
             elif line[:17].lstrip() == str(itemNum):
                 br = int(line[29:31])
                 bqty = int(line[64:])
-                f.readline()
-                line10 = f.readline().rstrip().lstrip()
-                br10po = line10[45:50].rstrip().lstrip()
-                br10qty = line10[55:].rstrip()
-                print(line10, br10po, br10qty)
                 #squpdate(itemNum, supp, pcode, dcode, desc, br, bqty)
             elif line[:4] == 'Supp':
                 suppLine = True
@@ -53,6 +59,9 @@ def getItems(file):
                 pass
 
 
-getItems(input(">>>"))
-input("DONE!")
+if __name__ == "__main__":
+
+    getItems(input(">>>"))
+    input("DONE!")
+    sys.exit()
 
