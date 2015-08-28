@@ -1,0 +1,264 @@
+Supp Prod   Item# Desc.Code  Description                                        
+     REP1   63318 BIPART     BAND PART-                                         
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+            63318 BIPART     30    0   0     0  -425     0    0    425          
+            63318 BIPART     35    0   0     2  -527     0    2    527          
+            63318 BIPART     45    0   0     0 -2206     0    0   2206          
+            63318 BIPART     50    0   0     0 -9100     0    0   9100          
+            63318 BIPART     70    0   0     0 -1079     0    0   1079          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              63318 BIPART     10    0   0     0         0                      
+              63318 BIPART     11    0   0     0         0                      
+              63318 BIPART     12    0   0     0         0                      
+              63318 BIPART     15    0   0     0         0                      
+              63318 BIPART     20    0   0     0      1446                      
+              63318 BIPART     30    0   0     0      -425                      
+              63318 BIPART     31    0   0     0         0                      
+              63318 BIPART     35    0   0     0      -527                      
+              63318 BIPART     40    0   0     0      3701                      
+              63318 BIPART     45    0   0     0     -2206                      
+              63318 BIPART     50    0   0     0     -9100                      
+              63318 BIPART     55    0   0     0         0                      
+              63318 BIPART     60    0   0     0      1875                      
+              63318 BIPART     70    0   0     0     -1079                      
+              63318 BIPART     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+     REP2   45025 COREPAIR   COMBO REPAIR                                       
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+            45025 COREPAIR   30    0   0     0   -61     0    0     61          
+            45025 COREPAIR   45    0   0     0    -3     0    0      3          
+            45025 COREPAIR   70    0   0     0 -3953     0    0   3953          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              45025 COREPAIR   10    0   0     0         0                      
+              45025 COREPAIR   11    0   0     0         0                      
+              45025 COREPAIR   12    0   0     0         0                      
+              45025 COREPAIR   15    0   0     0         0                      
+              45025 COREPAIR   20    0   0     0      2474                      
+              45025 COREPAIR   30    0   0     0       -61                      
+              45025 COREPAIR   31    0   0     0         0                      
+              45025 COREPAIR   35    0   0     0       223                      
+              45025 COREPAIR   40    0   0     0       284                      
+              45025 COREPAIR   45    0   0     0        -3                      
+              45025 COREPAIR   50    0   0     0      8850                      
+              45025 COREPAIR   55    0   0     0         0                      
+              45025 COREPAIR   60    0   0     0      1575                      
+              45025 COREPAIR   70    0   0     0     -3953                      
+              45025 COREPAIR   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+     REP2   69650 COPART     COMBO PART                                         
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+            69650 COPART     30    0   0     0  -423     0    0    423          
+            69650 COPART     35    0   0     1   -28     0    1     28          
+            69650 COPART     45    0   0     0   -19     0    0     19          
+            69650 COPART     60    0   0     0  -486     0    0    486          
+            69650 COPART     70    0   0     0 -2116     0    0   2116          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              69650 COPART     10    0   0     0         0                      
+              69650 COPART     11    0   0     0         0                      
+              69650 COPART     12    0   0     0         0                      
+              69650 COPART     15    0   0     0         0                      
+              69650 COPART     20    0   0     0      1686                      
+              69650 COPART     30    0   0     0      -423                      
+              69650 COPART     31    0   0     0         0                      
+Supp Prod   Item# Desc.Code  Description                                        
+     REP2   69650 COPART     COMBO PART                                         
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              69650 COPART     35    0   0     0       -28                      
+              69650 COPART     40    0   0     0       140                      
+              69650 COPART     45    0   0     0       -19                      
+              69650 COPART     50    0   0     0       638                      
+              69650 COPART     55    0   0     0         0                      
+              69650 COPART     60    0   0     0      -486                      
+              69650 COPART     70    0   0     0     -2116                      
+              69650 COPART     80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+ANY  REP2  175456 STEVEREP   REPAIR LABOUR STEVE                                
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+           175456 STEVEREP   45    0   0    13   -89     0   13     89          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             175456 STEVEREP   10    0   0     0         0                      
+             175456 STEVEREP   11    0   0     0         0                      
+             175456 STEVEREP   12    0   0     0         0                      
+             175456 STEVEREP   15    0   0     0         0                      
+             175456 STEVEREP   20    0   0     0         0                      
+             175456 STEVEREP   30    0   0     0         0                      
+             175456 STEVEREP   31    0   0     0         0                      
+             175456 STEVEREP   35    0   0     0         0                      
+             175456 STEVEREP   40    0   0     0         0                      
+             175456 STEVEREP   45    0   0     0       -89                      
+             175456 STEVEREP   50    0   0     0         0                      
+             175456 STEVEREP   55    0   0     0         0                      
+             175456 STEVEREP   60    0   0     0         0                      
+             175456 STEVEREP   70    0   0     0         0                      
+             175456 STEVEREP   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+ANY  REP2  175460 TOUGHREP   OUTSIDE REPAIR TOUGH                               
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+           175460 TOUGHREP   45    0   0     0   -16     0    0     16          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             175460 TOUGHREP   10    0   0     0         0                      
+             175460 TOUGHREP   11    0   0     0         0                      
+             175460 TOUGHREP   12    0   0     0         0                      
+             175460 TOUGHREP   15    0   0     0         0                      
+             175460 TOUGHREP   20    0   0     0         0                      
+             175460 TOUGHREP   30    0   0     0         0                      
+             175460 TOUGHREP   31    0   0     0         0                      
+             175460 TOUGHREP   35    0   0     0         0                      
+             175460 TOUGHREP   40    0   0     0         0                      
+             175460 TOUGHREP   45    0   0     0       -16                      
+             175460 TOUGHREP   50    0   0     0         0                      
+             175460 TOUGHREP   55    0   0     0         0                      
+             175460 TOUGHREP   60    0   0     0         0                      
+             175460 TOUGHREP   70    0   0     0         0                      
+             175460 TOUGHREP   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+B&J  REP2   15283 SC1408SS   14" 8 LUG SNARE HOOP                               
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+            15283 SC1408SS   70    1   1     0     0     0    0      1          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              15283 SC1408SS   10    0   0     0         0                      
+              15283 SC1408SS   11    0   0     0         0                      
+              15283 SC1408SS   12    0   0     0         0                      
+              15283 SC1408SS   15    0   0     0         0                      
+Supp Prod   Item# Desc.Code  Description                                        
+B&J  REP2   15283 SC1408SS   14" 8 LUG SNARE HOOP                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              15283 SC1408SS   20    0   0     0         0                      
+              15283 SC1408SS   30    0   0     0         0                      
+              15283 SC1408SS   31    0   0     0         0                      
+              15283 SC1408SS   35    0   0     0         0                      
+              15283 SC1408SS   40    1   1     1         0                      
+              15283 SC1408SS   45    0   0     0         0                      
+              15283 SC1408SS   50    0   0     0         0                      
+              15283 SC1408SS   55    0   0     0         0                      
+              15283 SC1408SS   60    0   0     0         0                      
+              15283 SC1408SS   70    1   1     0         0                      
+              15283 SC1408SS   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+B&J  REP2   23201 SC1408BS   14" 8 LUG BATTER HOO                               
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+            23201 SC1408BS   70    1   1     0     0     0    0      1          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              23201 SC1408BS   10    0   0     0         0                      
+              23201 SC1408BS   11    0   0     0         0                      
+              23201 SC1408BS   12    0   0     0         0                      
+              23201 SC1408BS   15    0   0     0         0                      
+              23201 SC1408BS   20    0   0     0         0                      
+              23201 SC1408BS   30    0   0     0         0                      
+              23201 SC1408BS   31    0   0     0         0                      
+              23201 SC1408BS   35    0   0     0         0                      
+              23201 SC1408BS   40    1   1     0         1                      
+              23201 SC1408BS   45    0   0     0         0                      
+              23201 SC1408BS   50    0   0     0         0                      
+              23201 SC1408BS   55    0   0     0         0                      
+              23201 SC1408BS   60    0   0     0         0                      
+              23201 SC1408BS   70    1   1     0         0                      
+              23201 SC1408BS   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+SJM  REP1   56355 BIREPAIR   REPAIR-BAND                                        
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+            56355 BIREPAIR   15    0   0     0    -4     0    0      4          
+            56355 BIREPAIR   45    0   0     0 -3202     0    0   3202          
+            56355 BIREPAIR   50    0   0     0 -4976     0    0   4976          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+              56355 BIREPAIR   10    0   0     0         0                      
+              56355 BIREPAIR   11    0   0     0         0                      
+              56355 BIREPAIR   12    0   0     0         0                      
+              56355 BIREPAIR   15    0   0     0        -4                      
+              56355 BIREPAIR   20    0   0     0      4126                      
+              56355 BIREPAIR   30    0   0     0       745                      
+              56355 BIREPAIR   31    0   0     0         0                      
+              56355 BIREPAIR   35    0   0     0       392                      
+              56355 BIREPAIR   40    0   0     0      2394                      
+              56355 BIREPAIR   45    0   0     0     -3202                      
+              56355 BIREPAIR   50    0   0     0     -4976                      
+              56355 BIREPAIR   55    0   0     0         0                      
+              56355 BIREPAIR   60    0   0     0      4005                      
+              56355 BIREPAIR   70    0   0     0      7897                      
+              56355 BIREPAIR   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA REP1  163907 M1830690   NECK RECEIVER BASSCL                               
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+           163907 M1830690   70    0   0     3     0     0    1      2          
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA REP1  163907 M1830690   NECK RECEIVER BASSCL                               
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             163907 M1830690   10    0   0     0         0                      
+             163907 M1830690   11    0   0     0         0                      
+             163907 M1830690   12    0   0     0         0                      
+             163907 M1830690   15    0   0     0         0                      
+             163907 M1830690   20    0   0     0         0                      
+             163907 M1830690   30    0   0     0         0                      
+             163907 M1830690   31    0   0     0         0                      
+             163907 M1830690   35    0   0     0         0                      
+             163907 M1830690   40    0   0     0         3                      
+             163907 M1830690   45    0   0     0         0                      
+             163907 M1830690   50    0   0     0         0                      
+             163907 M1830690   55    0   0     0         0                      
+             163907 M1830690   60    0   0     0         0                      
+             163907 M1830690   70    0   0     0         0                      
+             163907 M1830690   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA REP1  179227 V6060301   WING ASSEMBLY SLB100                               
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+           179227 V6060301   20    0   0     2     0     0    1      1          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             179227 V6060301   10    0   0     0         0                      
+             179227 V6060301   11    0   0     0         0                      
+             179227 V6060301   12    0   0     0         0                      
+             179227 V6060301   15    0   0     0         0                      
+             179227 V6060301   20    0   0     0         0                      
+             179227 V6060301   30    0   0     0         0                      
+             179227 V6060301   31    0   0     0         0                      
+             179227 V6060301   35    0   0     0         0                      
+             179227 V6060301   40    0   0     0         4                      
+             179227 V6060301   45    0   0     0         0                      
+             179227 V6060301   50    0   0     0         0                      
+             179227 V6060301   55    0   0     0         0                      
+             179227 V6060301   60    0   0     0         0                      
+             179227 V6060301   70    0   0     0         0                      
+             179227 V6060301   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+Supp Prod   Item# Desc.Code  Description                                        
+YAMA REP2  193705 AAX98470   3PC SET SLB200                                     
+            Item# DescCode   Bra MIN MAX ON_OE   Avl On_PO Rsrv BuyQTY          
+           193705 AAX98470   20    0   0     3     0     0    2      1          
+              Item# DescCode   Bra MIN MAX ON_PO  AvailQTY                      
+             193705 AAX98470   10    0   0     0         0                      
+             193705 AAX98470   11    0   0     0         0                      
+             193705 AAX98470   12    0   0     0         0                      
+             193705 AAX98470   15    0   0     0         0                      
+             193705 AAX98470   20    0   0     0         0                      
+             193705 AAX98470   30    0   0     0         0                      
+             193705 AAX98470   31    0   0     0         0                      
+             193705 AAX98470   35    0   0     0         0                      
+             193705 AAX98470   40    0   0     0         4                      
+             193705 AAX98470   45    0   0     0         0                      
+             193705 AAX98470   50    0   0     0         0                      
+             193705 AAX98470   55    0   0     0         0                      
+             193705 AAX98470   60    0   0     0         0                      
+             193705 AAX98470   70    0   0     0         0                      
+             193705 AAX98470   80    0   0     0         0                      
+    ----------------------------------------------------------------------------
+                    ----------                                                  
+                                                                                
+                                                                                

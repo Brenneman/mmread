@@ -1,4 +1,5 @@
 import sqlite3
+import tkinter
 
 def squpdate(itemNum, supp, pcode, dcode, desc, br, bqty):
     conn = sqlite3.connect('purchasing.db')
@@ -41,10 +42,41 @@ def getItems(file):
                 suppLine = True
                 records += 1
                 print(records, "records have been checked...")
+                l.configure(text="Done!")
             else:
                 pass
 
+def clearDB(check):
+    
+    conn = sqlite3.connect('purchasing.db')
+    c = conn.cursor()
 
-getItems(input(">>>"))
-input("DONE!")
+    c.execute("DELETE FROM items")
 
+    conn.commit()
+    conn.close()
+    check.destroy()
+
+def clearCheck():
+    check = tkinter.Tk()
+    check.title("Clear DataBase?")
+    l = tkinter.Label(check, text="Really clear DataBase?")
+    l.pack()
+    byes = tkinter.Button(check, text="Yes", command= lambda: clearDB(check))
+    byes.pack(side="left", padx=50)
+    bno = tkinter.Button(check, text="No", command= lambda: check.destroy())
+    bno.pack(side="right", padx=50)
+    
+#Minimalist GUI
+if __name__ == '__main__':
+    master = tkinter.Tk()
+    master.title("SJM MINMAX Parser")
+#    master.geometry("300x300")
+    e = tkinter.Entry(master)
+    e.pack(pady=12)
+    b = tkinter.Button(master, text="Go!", command= lambda: getItems(e.get()))
+    b.pack(pady=12, padx=150)
+    l = tkinter.Label(master, text="")
+    b2 = tkinter.Button(master, text="Clear DataBase", command= lambda: clearCheck())
+    b2.pack(pady=12)
+    master.mainloop()
