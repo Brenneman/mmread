@@ -31,8 +31,11 @@ def getItems(file):
         br10po = ''
         br10qty = ''
         records = 0
+        count = 0
 
         for line in f:
+            count += line.count('')
+            print(count)
             if suppLine == True:
                 itemNum = int(line.lstrip('')[10:17])
                 supp = line[:4]
@@ -41,15 +44,16 @@ def getItems(file):
                 desc = line.rstrip('\n')[29:]
                 suppLine = False
             elif line[:17].lstrip() == str(itemNum):
-                print("X")
-                print(line)
                 br = int(line[29:31])
                 oe = int(line[43:49])
                 rsrv = int(line[59:64])
-                print(oe, rsrv)
                 bqty = int(line[64:])
-            elif line[:19].lstrip() == str(itemNum) and line[31:33] == '10':
-                line10 = line
+                print(line)
+                line10 = f.readline()
+                while line10[:19].lstrip() != str(itemNum):
+                    line10 = f.readline()
+                print(line)
+                f.seek(count + 1)
                 line10 = line10.rstrip('\n')
                 br10po = line10[46:52].rstrip(' ').lstrip(' ')
                 br10qty = line10[55:].rstrip(' ').lstrip(' ')
