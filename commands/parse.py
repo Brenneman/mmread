@@ -45,15 +45,15 @@ def getItems(file):
                 suppLine = False
             elif line[:17].lstrip() == str(itemNum):
                 br = int(line[29:31])
-                oe = int(line[43:49])
-                rsrv = int(line[59:64])
-                bqty = int(line[64:])
+                oe = int(line[43:46])
+                rsrv = int(line[59:63])
+                bqty = int(line[66:].rstrip())
                 print(line)
                 line10 = f.readline()
                 while line10[:19].lstrip() != str(itemNum):
                     line10 = f.readline()
                 print(line)
-                f.seek(count + 1)
+                f.seek(count)
                 line10 = line10.rstrip('\n')
                 br10po = line10[46:52].rstrip(' ').lstrip(' ')
                 br10qty = line10[55:].rstrip(' ').lstrip(' ')
