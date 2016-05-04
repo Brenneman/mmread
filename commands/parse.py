@@ -45,9 +45,9 @@ def getItems(file):
                 suppLine = False
             elif line[:17].lstrip() == str(itemNum):
                 br = int(line[29:31])
-                oe = int(line[43:46])
-                rsrv = int(line[59:63])
-                bqty = int(line[66:].rstrip())
+                oe = int(line[45:51])
+                rsrv = int(line[62:67])
+                bqty = int(line[67:].rstrip())
                 print(line)
                 line10 = f.readline()
                 while line10[:19].lstrip() != str(itemNum):

@@ -40,14 +40,14 @@ def getItems(file):
                 itemNum = int(line.lstrip('')[10:17])
                 supp = line[:4]
                 pcode = line[5:9]
-                dcode = line.lstrip('')[18:29]
+                dcode = line.lstrip('')[18:28]
                 desc = line.rstrip('\n')[29:]
                 suppLine = False
             elif line[:17].lstrip() == str(itemNum):
-                br = int(line[29:31])
-                oe = int(line[43:46])
-                rsrv = int(line[59:63])
-                bqty = int(line[66:].rstrip())
+                br = int(line[28:31])
+                oe = int(line[45:49])
+                rsrv = int(line[60:65])
+                bqty = int(line[67:].rstrip())
                 print(line)
                 line10 = f.readline()
                 while line10[:19].lstrip() != str(itemNum):
