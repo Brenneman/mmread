@@ -1,5 +1,6 @@
 import sqlite3
 import tkinter
+from subprocess import call
 
 def squpdate(itemNum, supp, pcode, dcode, desc, br, oe, rsrv, bqty, br10po, br10qty):
     conn = sqlite3.connect('../data/purchasing.db')
@@ -79,6 +80,20 @@ def clearDB(check):
     conn.close()
     check.destroy()
 
+def exportDB():
+
+#   conn = sqlite3.connect('../data/purchasing.db')
+#   c = conn.cursor()
+
+#   c.execute(".headers on")
+#   c.execute(".output data/out.csv")
+#   c.execute("SELECT * FROM items WHERE br10qty > 0;")
+#   c.execute(".output stdout")
+
+#   conn.close()
+
+    rc = call("./exportCSV.sh")
+
 def clearCheck():
     check = tkinter.Tk()
     check.title("Clear DataBase?")
@@ -101,4 +116,6 @@ if __name__ == '__main__':
     l = tkinter.Label(master, text="")
     b2 = tkinter.Button(master, text="Clear DataBase", command= lambda: clearCheck())
     b2.pack(pady=12)
+    b3 = tkinter.Button(master, text="Export DataBase", command= lambda: exportDB())
+    b3.pack(pady=12)
     master.mainloop()

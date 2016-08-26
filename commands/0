@@ -1,0 +1,1 @@
+select data.py exportCSV.sh __init__.py interpret.py parse.py parse.pyw __pycache__ from items where br10qty
